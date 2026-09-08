@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Swikriti 👋
 
-<!--
-**Swikc4/Swikc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Information Systems student at Baruch College,
+concentrating in Data Analytics and minoring in Mathematics.
 
-Here are some ideas to get you started:
+I'm currently building my skills in data analytics and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- Python
+- SQL & SQLite
+- pandas
+- scikit-learn
+- Git & GitHub
+- REST APIs
+- Excel
+- Data Cleaning & Exploratory Data Analysis
+- Logistic Regression & Classification
+
+## 📊 Featured Projects
+
+### NYC Motor Vehicle Collision Fatality Analysis
+Analyzed NYC collision data using Python, pandas, and scikit-learn
+to investigate factors associated with fatal crashes.
+
+### Music Listening Database
+Built a relational database application using Python, SQL, and SQLite
+with JOIN, GROUP BY, and aggregate queries.
+
+### Industry Comparison Data Pipeline
+Built Python and REST API pipelines and visualized geographic
+business-event data using Folium.
+
+## 🎯 Currently Learning
+
+- Machine Learning
+- Statistics & Regression
+- Data Warehousing
+- Big Data Technologies
+- Calculus & Linear Algebra
+
+## 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
