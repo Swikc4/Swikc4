@@ -14,16 +14,24 @@ I'm building toward a career in data analytics, with a long-term interest in mac
 ## Featured Work
 
 ### [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
-Relational database coursework using Python and SQLite, covering foreign keys, normalization, referential integrity, multi-table queries, and schema design.
+Python and SQLite work covering foreign keys, normalization, referential integrity, multi-table queries, and schema design.
 
 ### NYC Motor Vehicle Collision Fatality Analysis
-Analyzed NYC collision data using Python, pandas, and scikit-learn to investigate factors associated with fatal crashes.
+**Python · pandas · scikit-learn · Logistic Regression**  
+Analyzed NYC collision data to examine driver, vehicle, and time-based factors associated with fatal crash outcomes.
 
-### Music Listening Database
-Built a relational database application using Python, SQL, and SQLite with JOIN, GROUP BY, and aggregate queries.
+### Music Listening Database Application
+**Python · SQL · SQLite · Git/GitHub**  
+Contributed SQL query functions to a team relational-database application using joins, grouping, aggregates, and SQLite.
 
-### Industry Comparison Data Pipeline
-Built Python and REST API pipelines and visualized geographic business-event data using Folium.
+[View my project contribution](https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29)
+
+### Press Release to Plot — Industry Comparison
+**Python · REST APIs · Folium · Git/GitHub**  
+Worked on an API-driven team analysis comparing Financial Services and Travel & Hospitality location events and geographic patterns.
+
+### [Project Portfolio](https://github.com/Swikc4/Projects)
+See expanded descriptions of my academic data and analytics projects.
 
 ## Coursework
 
