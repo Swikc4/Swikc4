@@ -2,40 +2,39 @@
 
 I'm a **Computer Information Systems** student at **Baruch College**, concentrating in **Data Analytics** and minoring in **Mathematics**.
 
-I'm building toward a career in data analytics, with a long-term interest in machine learning engineering.
+I'm building toward a career in data analytics, with a long term interest in machine learning engineering.
 
 ## Technical Skills
 
 - **Languages:** Python, SQL
-- **Data & ML:** pandas, scikit-learn, data cleaning, exploratory data analysis, logistic regression, classification
+- **Data and ML:** pandas, scikit-learn, data cleaning, exploratory data analysis, logistic regression, classification
 - **Databases:** SQLite, relational database design
 - **Tools:** Git, GitHub, REST APIs, Excel, Folium
 
 ## Featured Work
 
-### [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
-Python and SQLite work covering foreign keys, normalization, referential integrity, multi-table queries, and schema design.
-
-### NYC Motor Vehicle Collision Fatality Analysis
+### [NYC Motor Vehicle Collision Fatality Analysis](https://github.com/Swikc4/nyc-collision-fatality-analysis)
 **Python · pandas · scikit-learn · Logistic Regression**  
-Analyzed NYC collision data to examine driver, vehicle, and time-based factors associated with fatal crash outcomes.
+Analyzed NYC collision data to examine driver, vehicle, and time related factors associated with fatal crash outcomes.
 
-### Music Listening Database Application
+### [Music Listening Database Application Contribution](https://github.com/Swikc4/music-listening-database-contribution)
 **Python · SQL · SQLite · Git/GitHub**  
-Contributed SQL query functions to a team relational-database application using joins, grouping, aggregates, and SQLite.
+Implemented four SQL query functions for a three person team database application and contributed the work through a pull request workflow.
 
-[View my project contribution](https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29)
-
-### Press Release to Plot — Industry Comparison
+### [Press Release to Plot Industry Comparison](https://github.com/Swikc4/press-release-to-plot)
 **Python · REST APIs · Folium · Git/GitHub**  
-Worked on an API-driven team analysis comparing Financial Services and Travel & Hospitality location events and geographic patterns.
+Worked on an API driven team analysis comparing Financial Services and Travel and Hospitality location events and geographic patterns.
+
+### [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
+**Python · SQL · SQLite · Jupyter Notebook**  
+Database design work covering foreign keys, normalization, referential integrity, multi table queries, and schema design.
 
 ### [Project Portfolio](https://github.com/Swikc4/Projects)
 See expanded descriptions of my academic data and analytics projects.
 
 ## Coursework
 
-### [CIS 3120 — Programming for Analytics](https://github.com/Swikc4/CIS3120)
+### [CIS 3120 Programming for Analytics](https://github.com/Swikc4/CIS3120)
 Coursework and practice in Python, data analysis, APIs, databases, and Git/GitHub workflows.
 
 ## Currently Learning
