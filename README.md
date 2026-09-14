@@ -29,9 +29,6 @@ Used REST API data to compare Financial Services and Travel & Hospitality locati
 **Python · SQL · SQLite · Jupyter Notebook**  
 Database design work covering foreign keys, normalization, referential integrity, multi table queries, and schema design.
 
-### [Project Portfolio](https://github.com/Swikc4/Projects)
-See expanded descriptions of my academic data and analytics projects.
-
 ## Coursework
 
 ### [CIS 3120 Programming for Analytics](https://github.com/Swikc4/CIS3120)
