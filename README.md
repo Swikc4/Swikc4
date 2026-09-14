@@ -1,8 +1,8 @@
 # Hi, I'm Swikriti 👋
 
-I'm a **Computer Information Systems** student at **Baruch College**, concentrating in **Data Analytics** and minoring in **Mathematics**.
+I'm a Computer Information Systems student at Baruch College, concentrating in Data Analytics and minoring in Mathematics.
 
-I'm building toward a career in data analytics, with a long term interest in machine learning engineering.
+I'm building toward a career in data analytics, with a long-term interest in machine learning engineering
 
 ## Technical Skills
 
@@ -19,11 +19,11 @@ Analyzed NYC collision data to examine driver, vehicle, and time related factors
 
 ### [Music Listening Database Application Contribution](https://github.com/Swikc4/music-listening-database-contribution)
 **Python · SQL · SQLite · Git/GitHub**  
-Implemented four SQL query functions for a three person team database application and contributed the work through a pull request workflow.
+Built four SQL query functions for a three-person database application and contributed the changes through a GitHub pull request workflow.
 
 ### [Press Release to Plot Industry Comparison](https://github.com/Swikc4/press-release-to-plot)
 **Python · REST APIs · Folium · Git/GitHub**  
-Worked on an API driven team analysis comparing Financial Services and Travel and Hospitality location events and geographic patterns.
+Used REST API data to compare Financial Services and Travel & Hospitality location events and visualize geographic patterns with Folium
 
 ### [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
 **Python · SQL · SQLite · Jupyter Notebook**  
