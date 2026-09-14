@@ -2,7 +2,7 @@
 
 I'm a Computer Information Systems student at Baruch College, concentrating in Data Analytics and minoring in Mathematics.
 
-I'm building toward a career in data analytics, with a long-term interest in machine learning engineering
+I'm building toward a career in data analytics, with a long-term interest in machine learning engineering.
 
 ## Technical Skills
 
@@ -21,9 +21,9 @@ Analyzed NYC collision data to examine driver, vehicle, and time related factors
 **Python · SQL · SQLite · Git/GitHub**  
 Built four SQL query functions for a three-person database application and contributed the changes through a GitHub pull request workflow.
 
-### [Press Release to Plot Industry Comparison](https://github.com/Swikc4/press-release-to-plot)
+### [API-Based Industry Location Analysis](https://github.com/Swikc4/press-release-to-plot)
 **Python · REST APIs · Folium · Git/GitHub**  
-Used REST API data to compare Financial Services and Travel & Hospitality location events and visualize geographic patterns with Folium
+Used REST API data to compare Financial Services and Travel & Hospitality location events and visualize geographic patterns with Folium.
 
 ### [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
 **Python · SQL · SQLite · Jupyter Notebook**  
