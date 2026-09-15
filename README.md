@@ -1,8 +1,8 @@
 # Hi, I'm Swikriti
 
-I'm focused on data analytics and machine learning, with a long-term goal of becoming a machine learning engineer. I study Computer Information Systems at Baruch College, with a concentration in Data Analytics and a minor in Mathematics.
+I'm a Computer Information Systems student at Baruch College, concentrating in Data Analytics and minoring in Mathematics. I'm interested in data analytics and machine learning. My long-term goal is to become a machine learning engineer.
 
-I'm interested in exploring data, building models, and understanding the mathematics behind them. My project work includes data preparation, SQL queries, feature engineering, and logistic regression. I care about interpreting results and evaluating how well models perform on new data.
+My projects involve analyzing data, writing SQL queries, and building statistical models. I enjoy understanding how models work and what their results mean.
 
 **Tools I use:** Python, SQL, pandas, scikit-learn, SQLite, Jupyter Notebook, Git, and GitHub.
 
