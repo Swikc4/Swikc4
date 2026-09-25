@@ -24,6 +24,6 @@ Python · SQL · pandas · scikit-learn · SQLite · Jupyter Notebook · REST AP
 
 ## GitHub Stats
 
-![Swikriti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swikc4&show_icons=true&hide_rank=true)
+![Swikriti's GitHub streak](https://streak-stats.demolab.com?user=Swikc4)
 
 [LinkedIn](https://www.linkedin.com/in/swikriti-kc/)
