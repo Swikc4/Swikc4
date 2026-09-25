@@ -6,18 +6,27 @@
 
 I'm interested in data analytics and machine learning, and my long-term goal is to become a machine learning engineer. My projects involve analyzing data, writing SQL queries, and building statistical models. I enjoy understanding how models work and what their results mean.
 
-## Tech Stack
+## Technical Skills
+
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+![Shell scripting](https://img.shields.io/badge/Shell%20scripting-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+### Libraries & Ecosystem
+
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat)
+
+### Tools & Environments
+
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-Python · SQL · pandas · scikit-learn · SQLite · Jupyter Notebook · REST APIs · Folium · Git and GitHub
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
 ## Featured Projects
 
