@@ -30,10 +30,12 @@ I'm interested in data analytics and machine learning, and my long-term goal is 
 
 ## Featured Projects
 
-- **[NYC Collision Fatality Analysis](https://github.com/Swikc4/NYC-Motor-Vehicle-Collision-Fatality-Analysis)** - Binary logistic regression on 70,000+ NYC motor vehicle collision records to identify factors associated with fatal crashes (Python, pandas, scikit-learn)
+- **[NYC Motor Vehicle Collision Fatality Analysis](https://github.com/Swikc4/NYC-Motor-Vehicle-Collision-Fatality-Analysis)** - Binary logistic regression on 70,000+ NYC motor vehicle collision records to identify factors associated with fatal crashes (Python, pandas, scikit-learn)
 - **[Press Release to Plot](https://github.com/Swikc4/press-release-to-plot)** - REST API pipeline classifying and mapping location-related business events from SEC EDGAR filings; I led the Financial Services pipeline (Python, SEC EDGAR, Folium)
 - **[Music Listening Database Contribution](https://github.com/Swikc4/music-listening-database-contribution)** - SQL query module I contributed to a team-built Python and SQLite database, merged via PR #29 (JOINs, aggregates, parameterized queries)
 - **[SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)** - Notebook on relational schema design, normalization, and data integrity (Python, SQLite)
+
+- **[Hurricane Risk Prediction](https://github.com/Swikc4/Hurricane-Risk-Prediction)** - Student club project analyzing Miami-Dade ZIP-level hurricane damage with a Random Forest model (Python, pandas, scikit-learn)
 
 ## Certifications
 
