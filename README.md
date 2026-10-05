@@ -1,4 +1,4 @@
-# Hi, I'm Swikriti(Swi)
+# Hi, I'm Swikriti (Swi)
 
 Computer Information Systems student at Baruch College (Zicklin School of Business), concentrating in Data Analytics and minoring in Mathematics. 
 
