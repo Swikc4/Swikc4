@@ -1,6 +1,6 @@
 # Hi, I'm Swikriti
 
-Computer Information Systems student at Baruch College (Zicklin School of Business), concentrating in Data Analytics and minoring in Mathematics. Graduating May 2027 and seeking data analyst internships.
+Computer Information Systems student at Baruch College (Zicklin School of Business), concentrating in Data Analytics and minoring in Mathematics. 
 
 ## About Me
 
